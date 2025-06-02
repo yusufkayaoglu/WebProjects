@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>İterasyon Gösterim</title>
+</head>
+<body>
+<div>
+    <table>
+        <thead>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Yas</th>
+
+        </thead>
+        <tbody>
+        <tr th:each="ogr,ogrOzellik : ${ogrenciKosul}">
+            <strong><td th:text="${ogr.ad}"></td></strong>
+            <strong><td th:text="${ogr.soyad}"></td></strong>
+            <strong><td th:text="${ogr.yas}"></td></strong>
+
+
+            <strong><td>
+                <a th:href="@{http://www.google.com}" th:if="${ogr.ad}=='Yusuf'">Aç</a>
+                <a th:href="@{/Kaydet}" th:if="${ogr.ad}=='Yusuf'">Kaydet</a>
+                <a th:href="@{/Goster}" th:unless="${ogr.ad}=='Yusuf'">Goster</a>
+            </td></strong>
+
+
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

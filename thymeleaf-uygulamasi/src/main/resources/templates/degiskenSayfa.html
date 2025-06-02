@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Degisken ile Dolar Kullanma</title>
+</head>
+<body>
+<h2>Degisken İfadeleri Gösterme</h2>
+<div>
+    <table border="1" bordercolor="#ffcccc" width="200">
+        <caption>Degisken Gösterim</caption>
+        <tr>
+            <td>Ad:</td>
+            <td><strong th:text="${degisken.ad}"></strong></td>
+        </tr>
+        <tr>
+            <td>Soyad:</td>
+            <td><strong th:text="${degisken.soyad}"></strong></td>
+        </tr>
+        <tr>
+            <td>Yaş:</td>
+            <td><strong th:text="${degisken.yas}"></strong></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

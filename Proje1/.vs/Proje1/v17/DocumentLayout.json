@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Models\\Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Models\\Kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Models\\Departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Depart\\GuncelleDepartman.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Depart\\GuncelleDepartman.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Migrations\\20250502002213_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Migrations\\20250502002213_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\DepartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Controllers\\DepartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Kitap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Kitap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index9.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index9.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Program.cs",
+              "RelativeDocumentMoniker": "Proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Program.cs",
+              "RelativeToolTip": "Proje1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:44:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\appsettings.json",
+              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\appsettings.json",
+              "RelativeToolTip": "Proje1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T22:43:31.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Proje1\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Admin.cs",
+              "RelativeToolTip": "Proje1\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:42:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Departman.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Departman.cs",
+              "RelativeDocumentMoniker": "Proje1\\Models\\Departman.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Departman.cs",
+              "RelativeToolTip": "Proje1\\Models\\Departman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:01:10.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Proje1\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Context.cs",
+              "RelativeToolTip": "Proje1\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:09:55.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuncelleDepartman.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Depart\\GuncelleDepartman.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Depart\\GuncelleDepartman.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Depart\\GuncelleDepartman.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Depart\\GuncelleDepartman.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T22:32:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "Proje1\\Models\\Kitap.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Models\\Kitap.cs",
+              "RelativeToolTip": "Proje1\\Models\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:58:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250502002213_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Proje1\\Migrations\\20250502002213_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.Designer.cs",
+              "RelativeToolTip": "Proje1\\Migrations\\20250502002213_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:30:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250502002213_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.cs",
+              "RelativeDocumentMoniker": "Proje1\\Migrations\\20250502002213_Initial.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Migrations\\20250502002213_Initial.cs",
+              "RelativeToolTip": "Proje1\\Migrations\\20250502002213_Initial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:04:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proje1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proje1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:48:05.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\DepartController.cs",
+              "RelativeDocumentMoniker": "Proje1\\Controllers\\DepartController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Controllers\\DepartController.cs",
+              "RelativeToolTip": "Proje1\\Controllers\\DepartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:44:24.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kitap.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Kitap.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Kitap.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Kitap.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Kitap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:57:46.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index9.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index9.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index9.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index9.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index9.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:55:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index8.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index8.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index8.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index8.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index8.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:55:00.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index7.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index7.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index7.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index7.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index7.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:53:59.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index6.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index6.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index6.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index6.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index6.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:50:52.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index5.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index5.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index5.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index5.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index5.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:47:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:47:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proje1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Proje1\\Proje1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proje1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T21:44:00.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

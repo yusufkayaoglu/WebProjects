@@ -1,0 +1,65 @@
+﻿/* Sayfa arka planı */
+body {
+    background-color: #f2f9ff; /* açık ferah mavi */
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    min-height: 100vh;
+    padding-top: 40px;
+    margin: 0;
+}
+
+/* Başlık */
+h2 {
+    text-align: center;
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+/* Form kutusu */
+#tbl {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 35px;
+    width: 500px;
+}
+
+/* Tablodaki hücre boşlukları */
+td {
+    padding: 10px 8px;
+}
+
+/* Inputlar */
+.textBox, input[type="text"], input[type="password"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Buton */
+asp\:button, input[type="submit"], button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+asp\:button:hover, input[type="submit"]:hover, button:hover {
+    background-color: #0056b3;
+}
+
+/* Validasyon mesajları */
+span[style*="color:Red"] {
+    font-size: 12px;
+    display: block;
+    margin-top: 4px;
+}
