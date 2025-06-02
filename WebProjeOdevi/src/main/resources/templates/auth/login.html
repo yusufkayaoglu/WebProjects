@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş Yap</title>
+    <link rel="stylesheet" th:href="@{/login.css}">
+</head>
+<body class="d-flex flex-column min-vh-100">
+<section>
+    <div class="login-box">
+
+        <!-- ✅ Bilgilendirme mesajı -->
+        <div th:if="${param.error}" class="alert alert-danger">
+            Hatalı kullanıcı adı veya şifre girdiniz!
+        </div>
+
+        <form th:action="@{/auth/login}" method="post">
+            <h2>Giriş Yap!</h2>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail"></ion-icon></span>
+                <input type="email" name="username" id="email" required>
+                <label for="email">Email</label>
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+                <input type="password" name="password" id="password" required>
+                <label for="password">Şifre</label>
+            </div>
+            <button type="submit">Giriş Yap</button>
+            <div class="register-link">
+                <p>Hesabın mı yok?<a th:href="@{/auth/register}"> Kayıt ol!</a></p>
+            </div>
+        </form>
+    </div>
+</section>
+<footer th:replace="~{fragments/footer :: footer}"></footer>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
