@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+<h:head></h:head>
+<body>
+	<f:view>
+		<h:form>
+			<h:panelGrid columns="2">
+				Kimlik No:<h:inputText
+					value="#{ogrenciView.ogrenci.birincilAnahtar.kimlikNo}" />
+				Ulke Kodu:<h:inputText
+					value="#{ogrenciView.ogrenci.birincilAnahtar.ulkeKodu}" />
+				Ad:<h:inputText value="#{ogrenciView.ogrenci.ad}" />
+				Soyad:<h:inputText value="#{ogrenciView.ogrenci.soyad}" />
+				Yas:<h:inputText value="#{ogrenciView.ogrenci.yas}" />
+				Cinsiyet:<h:selectOneRadio value="#{ogrenciView.ogrenci.cinsiyet}">
+					<f:selectItem itemLabel="BAY" itemValue="BAY" />
+					<f:selectItem itemLabel="BAYAN" itemValue="BAYAN" />
+				</h:selectOneRadio>
+				Cadde:<h:inputText
+					value="#{ogrenciView.ogrenci.adresBilgileri.cadde}" />
+				Sokak:<h:inputText
+					value="#{ogrenciView.ogrenci.adresBilgileri.sokak}" />
+				
+				Sehir Sec:<h:selectOneMenu value="#{ogrenciView.ogrenci.sehir}">
+					<f:selectItem itemLabel="Sehir Seciniz" itemValue=""
+						noSelectionOption="true" />
+					<f:selectItems value="#{ogrenciView.sehirler}" />
+				</h:selectOneMenu>
+				Otel Sec:<h:selectOneMenu value="#{ogrenciView.ogrenci.otel}">
+					<f:selectItem itemLabel="Otel Seciniz" itemValue=""
+						noSelectionOption="true" />
+					<f:selectItems value="#{ogrenciView.oteller}" />
+				</h:selectOneMenu>
+				Oda Tipi Sec:<h:selectOneRadio
+					value="#{ogrenciView.ogrenci.odaTipi}">
+					<f:selectItems value="#{ogrenciView.odaTipleri}" />
+				</h:selectOneRadio>
+				Yeni Ad:<h:inputText value="#{ogrenciView.ogrenci.yeni.yeniAd}" />
+				Yeni Soyad:<h:inputText
+					value="#{ogrenciView.ogrenci.yeni.yeniSoyad}" />
+				<h:commandButton action="#{ogrenciView.kaydet()}" value="Kaydet"
+					rendered="#{ogrenciView.ogrenci.ad ==null}" />
+				<h:commandButton action="#{ogrenciView.guncelle()}" value="Guncelle"
+					rendered="#{ogrenciView.ogrenci.soyad !=null}" />
+			</h:panelGrid>
+			<p:dataTable value="#{ogrenciView.liste}" var="ogr">
+				<f:facet name="header">Ogrenci Kayit Listesi</f:facet>
+				<p:column>
+					<f:facet name="header">Ogrenci Sec</f:facet>
+					<h:commandLink value="Sec">
+						<f:setPropertyActionListener value="#{ogr}"
+							target="#{ogrenciView.ogrenci}" />
+					</h:commandLink>
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Sil</f:facet>
+					<h:commandLink action="#{ogrenciView.sil()}" value="Sil">
+						<f:setPropertyActionListener value="#{ogr}"
+							target="#{ogrenciView.ogrenci}" />
+					</h:commandLink>
+				</p:column>
+
+				<p:column>
+					<f:facet name="header">Ogrenci Ad</f:facet>
+					<h:outputText value="#{ogr.ad}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Soyad</f:facet>
+					<h:outputText value="#{ogr.soyad}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Yas</f:facet>
+					<h:outputText value="#{ogr.yas}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Cinsiyet</f:facet>
+					<h:outputText value="#{ogr.cinsiyet}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Cadde</f:facet>
+					<h:outputText value="#{ogr.adresBilgileri.cadde}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Sokak</f:facet>
+					<h:outputText value="#{ogr.adresBilgileri.sokak}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Secilen Sehir</f:facet>
+					<h:outputText value="#{ogr.sehir}" />
+				</p:column>
+
+				<p:column>
+					<f:facet name="header">Secilen Otel</f:facet>
+					<h:outputText value="#{ogr.otel}" />
+				</p:column>
+
+				<p:column>
+					<f:facet name="header">Secilen Oda Tipi</f:facet>
+					<h:outputText value="#{ogr.odaTipi}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Yeni Ad</f:facet>
+					<h:outputText value="#{ogr.yeni.yeniAd}" />
+				</p:column>
+				<p:column>
+					<f:facet name="header">Ogrenci Soyad</f:facet>
+					<h:outputText value="#{ogr.yeni.yeniSoyad}" />
+				</p:column>
+			</p:dataTable>
+		</h:form>
+	</f:view>
+</body>
+</html>
